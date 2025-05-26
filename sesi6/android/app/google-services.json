@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604578658278",
+    "project_id": "fbtest-44a7d",
+    "storage_bucket": "fbtest-44a7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604578658278:android:51938224beec37540e4827",
+        "android_client_info": {
+          "package_name": "com.example.fbtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq0GClNV41bo5mHnscCc4nyWJpsf0aXIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
