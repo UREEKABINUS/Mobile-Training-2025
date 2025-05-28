@@ -1,0 +1,2 @@
+C:/Users/rcavi/dev/GitHub/Ureeka/mobile-dev/sesi7/android/app/.cxx/Debug/3x2y502j/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/rcavi/dev/GitHub/Ureeka/mobile-dev/sesi7/android/app/.cxx/Debug/3x2y502j/x86_64/CMakeFiles/rebuild_cache.dir
